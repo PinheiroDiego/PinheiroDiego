@@ -4,8 +4,6 @@ Gestor, Professor, Cientista de Dados e Pesquisador.
 
 Especialista em **Inteligência Artificial** e **Dados**.
 
----
-
 ## 👩‍💻 Sobre mim
 
 - 🎓 Pós-doutor em Inteligência Artificial na Universidade Feevale.
@@ -25,10 +23,6 @@ Especialista em **Inteligência Artificial** e **Dados**.
 
 ###
 
-## 🚀 Skills & Ferramentas
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
-
 ---
 
 ## 📊 GitHub Stats
@@ -37,12 +31,6 @@ Especialista em **Inteligência Artificial** e **Dados**.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinheiroDiego&show_icons=true&theme=tokyonight&count_private=true&hide=prs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinheiroDiego&layout=compact&langs_count=10&theme=tokyonight" />
 </div>
-
----
-
-## 📈 Contribuições Recentes
-
-[![Eduarda's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PinheiroDiego&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
