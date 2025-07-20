@@ -1,22 +1,29 @@
-<img align="right" height="180em" src="https://github.com/eduardavieira-dev/eduardavieira-dev/blob/main/profile-pic.png" />
+# Olá, eu sou o Diego Pinheiro!
 
-# 💜 Olá, eu sou a Eduarda!
+Gestor, Professor, Cientista de Dados e Pesquisador.
 
-Desenvolvedora em formação, comprometida em criar soluções modernas, funcionais e com propósito.
-
-Tenho focado meus estudos em **JavaScript**, **Node.js** e **React**, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+Especialista em **Inteligência Artificial** e **Dados**.
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Técnica em Desenvolvimento de Sistemas pelo SENAI  
-- 🎓 Graduanda em Engenharia de Software na PUC  
-- 📚 Estudando JavaScript, Node.js, React e desenvolvimento fullstack  
-- 🚀 Explorando novas tecnologias e desenvolvendo soluções de software  
-- 💌 Tenho um [studygram](https://www.instagram.com/seu_studygram_aqui) onde compartilho dicas da área e incentivo devs 💡
+- 🎓 Pós-doutor em Inteligência Artificial na Universidade Feevale.
+- 🎓 Doutor e Mestre em Computação Aplicada na Unisinos.
+- 🎓 Pós-graduado em Educação Profissinal.  
+- 🎓 Graduado em Sistemas de Informação na Universidade Feevale.
+- 🚀 Fundador do BAR Congress, um evento de inteligência artificial gratuito (https://barcongress.com.br).
+- ❤️ Apaixonado por jogos, livros e conhecer novos lugares.
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinheiroDiego/PinheiroDiego/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinheiroDiego/PinheiroDiego/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PinheiroDiego/PinheiroDiego/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## 🚀 Skills & Ferramentas
 
@@ -27,24 +34,24 @@ Tenho focado meus estudos em **JavaScript**, **Node.js** e **React**, com o obje
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=tokyonight&count_private=true&hide=prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=10&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinheiroDiego&show_icons=true&theme=tokyonight&count_private=true&hide=prs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinheiroDiego&layout=compact&langs_count=10&theme=tokyonight" />
 </div>
 
 ---
 
 ## 📈 Contribuições Recentes
 
-[![Eduarda's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardavieira-dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eduarda's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PinheiroDiego&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297)
-- 📸 [Instagram](https://instagram.com/seu_studygram_aqui)
-- 🌍 [Portfólio](https://eduardavieira.dev)
-- 📍 Belo Horizonte - MG
+- 💼 [LinkedIn](https://linkedin.com/in/pinheirodeigo)
+- 📸 [Instagram](https://instagram.com/pinheirodiego.ai)
+- 🌍 [Lattes](http://lattes.cnpq.br/4943548858140690)
+- 📍 Novo Hamburgo - RS
 
 ---
 
